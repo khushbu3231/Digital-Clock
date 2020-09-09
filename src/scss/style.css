@@ -1,0 +1,43 @@
+h3 {
+  background-color: #202040;
+  color: white;
+  max-width: 550px;
+}
+
+.container {
+  background-color: #202040;
+  max-width: 400px;
+  border: 20px solid #8d93ab;
+  font-weight: 500;
+  padding: 0px;
+  margin: 200px auto;
+  color: white;
+}
+
+.container .card {
+  background-color: #202040;
+}
+
+.container .card .card-header {
+  height: 20px;
+  margin-bottom: 20px;
+  font-size: 45px;
+  font-weight: 600;
+}
+
+.container .card .card-title {
+  height: 60px;
+  font-size: 60px;
+  font-weight: bold;
+  align-content: center;
+  margin-bottom: 0px;
+}
+
+.container .card .card-footer {
+  font-size: 30px;
+}
+
+.container .card .am-pm {
+  font-size: 30px;
+}
+/*# sourceMappingURL=style.css.map */
